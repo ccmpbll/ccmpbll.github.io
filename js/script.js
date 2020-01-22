@@ -132,6 +132,16 @@ let CONFIG = {
       icon: 'imdb',
       quickLaunch: false,
     },
+    {
+      category: 'Keyboards',
+      name: 'Keebtalk',
+      key: 'k',
+      url: 'https://keebtalk.com',
+      search: '/find?ref_=nv_sr_fn&q={}',
+      color: 'linear-gradient(135deg, #7A5F00, #E8B708)',
+      icon: 'keebtalk',
+      quickLaunch: false,
+    },
   ],
 
   /**
