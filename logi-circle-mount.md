@@ -2,4 +2,4 @@
 ![](/assets/images/cameramount.jpeg)
 
 ## Check out this video
-{% include youtube.html id="JLMbpiywVxQ" %}
+{% include youtube.html id="4HzgGr8CyRk" %}
