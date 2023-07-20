@@ -6,10 +6,12 @@
 - Docker
 - Monitoring and graphing tools
 - Automation tools
-- What I will call "general home lab nonsense"
+- What I call "general home lab nonsense"
 
 ### Current and past projects can be found [HERE](/projects.md)
 
 ### Check out stuff I created:
 - [Printables](https://www.printables.com/@ccmpbll)
 - [GitHub](https://github.com/ccmpbll)
+
+### Check out my resume [HERE](/resume.md)
