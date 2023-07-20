@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: blog.cmpbll.io
 description: Stuff I do.
-#show_downloads: false
+show_downloads: false
 github:
   is_project_page: false
