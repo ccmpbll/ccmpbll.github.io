@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: blog.cmpbll.io
 description: Stuff I do.
+github:
+is_project_page: false
