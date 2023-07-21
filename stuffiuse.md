@@ -49,6 +49,3 @@ Details coming soon.
 
 ### Cloud Hosting
 - Linode - I have used DigitalOcean, Vultr, and Amazon Lightsail, but my favorite so far has been Linode. They were recently acquired by Akamai, but no negative changes have been made as far as I am aware. 
-
-### Linux distribution
-- Debian - I figure if they've been around as long as they have for a reason. I used to be a Fedora guy, but that ship has sailed. 
