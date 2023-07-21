@@ -2,6 +2,8 @@
 title: Stuff I Use
 ---
 
+# List of software/tools/stuff I use
+
 ## 3D Printing and Design
 - Printer - Prusa MK3S+
 - Slicer Software - PrusaSlicer and SuperSlicer

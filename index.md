@@ -15,7 +15,7 @@ I plan to use this space to document all the stuff I find myself working on in m
 
 ## Current and past projects can be found [HERE](/projects.md)
 
-## List of software/tools/etc that I use can be found [HERE](/stuffiuse.md)
+## List of software/tools/stuff I currently use can be found [HERE](/stuffiuse.md)
 
 ## Check out stuff I created:
 - [Printables](https://www.printables.com/@ccmpbll)
