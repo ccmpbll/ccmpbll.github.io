@@ -1,4 +1,4 @@
-### This is a list of my current and past projects. 
+## This is a list of my current and past projects. 
 
 - 3D Printer Enclosure
 - [Custom mount for Logitech Circle View camera](/logi-circle-mount.md)
