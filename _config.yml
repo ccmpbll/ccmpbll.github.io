@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 site_favicon: favicon.ico
-title: blog.cmpbll.io
-description: Stuff I do.
+title: Chris Campbell
+description: Learning stuff and making things.
 show_downloads: false
 github:
   is_project_page: false
