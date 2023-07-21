@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 ## Summary
 I plan to use this space to document all the stuff I find myself working on in my spare time. I realize no one is going to read this, but someone recently told me that I should document all of my side projects, so here we are. 
 
