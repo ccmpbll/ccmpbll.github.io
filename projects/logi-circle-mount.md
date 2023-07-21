@@ -1,3 +1,6 @@
+---
+title: Logitech Camera Mount
+---
 ## Summary
 I like hummingbirds. I think they're fascinating. Unfortunately, I have to work and I don't have time to stare out the window all day waiting on them to come to the feeder.
 
