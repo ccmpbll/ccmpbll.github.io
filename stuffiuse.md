@@ -1,3 +1,8 @@
+---
+layout: page
+title: Stuff I Use
+---
+
 ## 3D Printing and Design
 - Printer - Prusa MK3S+
 - Slicer Software - PrusaSlicer and SuperSlicer

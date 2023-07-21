@@ -1,3 +1,8 @@
+---
+layout: page
+title: Projects
+---
+
 ## This is a list of my current and past projects. 
 
 - 3D Printer Enclosure
