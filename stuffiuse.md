@@ -6,7 +6,7 @@
 - Filament - We could talk about this all day. My favorites are Polymaker, PrintedSolid, and Prusament. I just realized they all start with P. Weird.
 - Also, OctoPrint is a must.
 
-## Homelab
+## Home lab
 This is a big list, so I'm going to break it up into smaller groups. 
 
 ### Compute/Storage Hardware
