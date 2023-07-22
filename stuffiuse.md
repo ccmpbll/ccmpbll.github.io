@@ -5,12 +5,12 @@ title: Stuff I Use
 # List of software/tools/stuff I use
 
 ## 3D Printing and Design
-- Printer - Prusa MK3S+
-- Slicer Software - PrusaSlicer and SuperSlicer
-- 3D Design/CAD - Fusion360
+- Printer - [Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)
+- Slicer Software - PrusaSlicer and [SuperSlicer](https://github.com/supermerill/SuperSlicer)
+- 3D Design/CAD - [Fusion360](https://www.autodesk.com/products/fusion-360/personal)
 - Digital Calipers - [Neiko 01407A 6in Stainless Steel Digital Calipers](https://www.amazon.com/Neiko-01407A-Electronic-Digital-Stainless/dp/B000GSLKIW/) - Yes you can buy better calipers, but not for the money. My advice: spend the extra money and get the 12in version. 
 - Filament - We could talk about this all day. My favorites are Polymaker, PrintedSolid, and Prusament. I just realized they all start with P. Weird.
-- Also, OctoPrint is a must.
+- Also, [OctoPrint](https://octoprint.org/) is a must.
 
 ## Home lab
 This is a big list, so I'm going to break it up into smaller groups. 
@@ -25,33 +25,33 @@ Details coming soon.
 - Wireless hardware is currently a Netgear Orbi setup, but that's in the process of changing.
 
 ### Monitoring and Graphing
-- Telegraf
-- InfluxDB
-- Grafana
-- Uptime Kuma
-- Mosquitto (MQTT broker)
+- [Telegraf](https://hub.docker.com/_/telegraf)
+- [InfluxDB](https://hub.docker.com/_/influxdb)
+- [Grafana](https://hub.docker.com/r/grafana/grafana)
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma)
+- [Mosquitto (MQTT broker)](https://hub.docker.com/_/eclipse-mosquitto)
 - [cloudflare-speedtest-mqtt](https://github.com/ccmpbll/cloudflare-speedtest-mqtt)
 
 ### File Syncronization
-- Syncthing - this deserves its own write up. 
+- [Syncthing](https://docs.syncthing.net/) - this deserves its own write up. 
 
 ### Media Server
-- Emby - I was a loyal Plex user for a very long time, but several years ago I made the decision to move away from Plex to something that only ran on my home network and didn't require any login to any outside service to operate. I can use Emby with no internet connection at all, which is not something you can do with Plex. 
+- [Emby](https://emby.media/) - I was a loyal Plex user for a very long time, but several years ago I made the decision to move away from Plex to something that only ran on my home network and didn't require any login to any outside service to operate. I can use Emby with no internet connection at all, which is not something you can do with Plex. 
 
 ### Home Automation
-- Homebridge - lets me bring non-HomeKit enabled devices into HomeKit. 
+- [Homebridge](https://github.com/homebridge/docker-homebridge) - lets me bring non-HomeKit enabled devices into HomeKit. 
 
 ### Remote access
-- Wireguard - this also needs its own write up. 
+- [Wireguard](https://www.wireguard.com/) - this also needs its own write up. 
 
 ### Ad blocking/DNS
-- Pihole - I run two instances of this, each on separate hardware. Both are running on docker.
+- [Pihole](https://hub.docker.com/r/pihole/pihole) - I run two instances of this, each on separate hardware. Both are running on docker.
 
 ### Logging
-- Dozzle - great for reviewing docker container logs.
+- [Dozzle](https://dozzle.dev/) - great for reviewing docker container logs.
 
 ### Virtualization
 - As hard as it might be to believe, there are no virtual machines running in my homelab. I made the decision a while ago to switch everything I could over to docker containers. 
 
 ### Cloud Hosting
-- Linode - I have used DigitalOcean, Vultr, and Amazon Lightsail, but my favorite so far has been Linode. They were recently acquired by Akamai, but no negative changes have been made as far as I am aware. 
+- [Linode](https://www.linode.com/) - I have used DigitalOcean, Vultr, and Amazon Lightsail, but my favorite so far has been Linode. They were recently acquired by Akamai, but no negative changes have been made as far as I am aware. 
