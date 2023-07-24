@@ -2,10 +2,16 @@
 title: Home
 ---
 
-## Summary
-I plan to use this space to document all the stuff I find myself working on in my spare time. I realize no one is going to read this, but someone recently told me that I should document all of my side projects, so here we are. 
+## Welcome!
+This space is dedicated to documenting all the stuff I find myself working on in my spare time. 
 
-## Things I am currently interested in:
+I might be the only one reading this, but I've been encouraged to document and track my side projects, so I've created this this platform to share my progress and findings.
+
+While this space may not be flashy, it's a place where I can express my passion for continuous learning and problem-solving.
+
+Thanks for stopping by!
+
+## Current interests:
 - 3D Printing
 - 3D Design
 - Docker/containerization
@@ -15,10 +21,12 @@ I plan to use this space to document all the stuff I find myself working on in m
 
 ## Current and past projects can be found [HERE](/projects.md)
 
-## List of software/tools/stuff I currently use can be found [HERE](/stuffiuse.md)
+## Software, tools, and other resources I currently use can be found [HERE](/stuffiuse.md)
 
-## Check out stuff I created:
+## Other platforms where you can find my work:
 - [Printables](https://www.printables.com/@ccmpbll)
 - [GitHub](https://github.com/ccmpbll)
 
-## Check out my resume [HERE](/resume.md)
+## Check out what I'm currently reading [HERE](https://www.goodreads.com/user/show/163287154-chris-campbell)
+
+## You can view my resume [HERE](/resume.md)
