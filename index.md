@@ -5,9 +5,9 @@ title: Home
 ## Welcome!
 This space is dedicated to documenting all the stuff I find myself working on in my spare time. 
 
-I might be the only one reading this, but I've been encouraged to document and track my side projects, so I've created this this platform to share my progress and findings.
+I might be the only one reading this, but I've been encouraged to document and track my side projects, so I've created this platform to share my progress and findings.
 
-While this space may not be flashy, it's a place where I can express my passion for continuous learning and problem-solving.
+While this space may not be flashy, it's a place where I can express my passion for continuous learning, creating, and problem-solving.
 
 Thanks for stopping by!
 
