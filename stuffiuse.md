@@ -22,7 +22,7 @@ Details coming soon.
 - Cisco 2960X-24PSQ-L - Main rack switch
 - Cisco 2960CG-8TC-L - Desk rack switch
 - PC Engines APU2 running pfSense
-- Wireless hardware is currently a Netgear Orbi setup, but that's in the process of changing.
+- Ruckus R650 - running Unleashed firmware
 
 ### Monitoring and Graphing
 - [Telegraf](https://hub.docker.com/_/telegraf)
