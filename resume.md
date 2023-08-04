@@ -14,7 +14,7 @@ Strong communication skills and commitment to mentoring engineering staff for op
 Experience
 ======
 
-### Chief Product Architect
+## Chief Product Architect
 **DartPoints**
 
 04/2022 - Present
@@ -30,10 +30,14 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
  - Provide technical guidance and direction to product, infrastructure, and engineering teams.
  - Define and maintain reference architecture for various products.
 
-### Infrastructure Services Manager
+
+## Infrastructure Services Manager
 **DartPoints**
+
 05/2018 - 04/2022
+
 Greenville, SC
+
 DartPoints offers cloud, interconnection, colocation, and managed services.
  - Led the Infrastructure Services engineering team.
  - This team was responsible for design, deployment, and maintenance of all multi-tenant and private cloud, backup, disaster recovery, security, and related products.
@@ -43,29 +47,41 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
  - Scheduled and organized maintenance windows for multiple platforms.
  - Responsible for maintaining uptime and meeting customer SLAs.
 
-### Principal Cloud Engineer
+
+## Principal Cloud Engineer
 **Immedion**
+
 07/2016 - 05/2018
+
 Greenville, SC
+
 Immedion was acquired by DartPoints in 2021.
  - Responsible for design, deployment, and maintenance of all cloud and virtualization products.
  - Responsible for driving use of automation for provisioning and maintenance tasks.
  - Acted as escalation point for other engineers and support staff.
 
-### VMware Engineer
+
+## VMware Engineer
 **Immedion**
+
 09/2013 - 07/2016
+
 Greenville, SC
+
 Immedion was acquired by DartPoints in 2021.
  - Maintained VMware environments at all sites.
  - Added compute and storage capacity as needed.
  - Resolved issues with all VMware-related components.
  - Scheduled and performed maintenance to upgrade and patch as needed.
 
-### Systems Engineer
+
+## Systems Engineer
 **Immedion**
+
 07/2011 - 09/2016
+
 Greenville, SC
+
 Immedion was acquired by DartPoints in 2021.
  - Ensure consistent delivery of customer support.
  - Maintain a clean and orderly datacenter.
@@ -75,10 +91,14 @@ Immedion was acquired by DartPoints in 2021.
  - Manage customer network gear: firewalls, routers, and switches, including Cisco routers, Cisco switches, Cisco ASA firewalls, Checkpoint firewalls, SonicWall firewalls.
  - Responsible for building and maintaining internal Nexenta storage arrays.
 
-### Director of IT/System Administrator
+
+## Director of IT/System Administrator
 **Cannon Memorial Hospital**
+
 05/2007 - 07/2011
+
 Pickens, SC
+
 55-bed rural community hospital with several medical practices.
  - Led the Internal IT team.
  - Created and maintained all IT-related policies and procedures.
@@ -88,33 +108,44 @@ Pickens, SC
  - Maintained relationships with vendors and handled all quoting and procurement for capacity and project needs.
  - Maintained all telecommunications contracts.
 
-### Senior On-Site Technician/System Administrator
+
+## Senior On-Site Technician/System Administrator
 **IDS, Inc.**
+
 05/2003 - 05/2007
+
 Seneca, SC
+
 IT services company, specializing in small to medium businesses.
  - Handled onsite service calls for various customer across the upstate.
  - Maintained vendor relationships for parts ordering, licensing, etc.
  - Worked closely with large accounts on IT projects and budgeting.
  - Maintained HP Laser printer service and repair center, ordered parts, made service calls, etc.
 
-### System/Network Administrator
+
+## System/Network Administrator
 **IQ Interactive, Inc.**
+
 06/2001 - 05/2003
+
 Clemson, SC
+
 IT training center and small internet service provider.
  - Performed maintenance of various servers and network equipment.
  - Maintained Exchange servers, web servers, and domain controllers.
  - Performed on-site DSL installs for customers.
 
-### Computer Service Technician
+## Computer Service Technician
 **Custom Computers**
 04/1999 - 06/2001
+
 Belton, SC
+
 IT services company focused on in-house PC maintenance and repair.
  - Performed in-house PC repairs and services.
  - Performed on-site service requests and hardware installation.
  - Placed parts and supply orders.
+
 
 Skills
 ======
@@ -158,27 +189,12 @@ Skills
 
 Certifications
 ======
-VCP-DCV 6.5
-VMware
-
-VCP-DCV 6.0
-VMware
-
-VCP-DCV 5.5
-VMware
-
-VTSP SASE
-VMware
-
-VSP SASE
-VMware
-
-VTSP SD-WAN
-VMware
-
-VTSP Carbon Black
-VMware
-
-LMCP
-LogicMonitor
+- VMware - VCP-DCV 6.5
+- VMware - VCP-DCV 6.0
+- VMware - VCP-DCV 5.5
+- VMware - VTSP SASE
+- VMware - VSP SASE
+- VMware - VTSP SD-WAN
+- VMware - VTSP Carbon Black
+- LogicMonitor - LMCP
 
