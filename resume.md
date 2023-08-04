@@ -2,8 +2,7 @@
 title: Resume
 ---
 
-Summary
-======
+# Summary
 
 Experienced IT professional with over 20 years of diverse technology expertise, including 12 years in the enterprise data center space. Proven track record in team management, data center management, virtualization, automation, and customer relations. 
 
@@ -11,8 +10,7 @@ Adept at designing, building, and maintaining large-scale multi-tenant and priva
 
 Strong communication skills and commitment to mentoring engineering staff for optimal performance. Passionate about technology. Dedicated to continuous learning and improvement.
 
-Experience
-======
+# Experience
 
 ## Chief Product Architect
 **DartPoints**
@@ -147,8 +145,8 @@ IT services company focused on in-house PC maintenance and repair.
  - Placed parts and supply orders.
 
 
-Skills
-======
+# Skills
+
  - Data Center Management
  - Leadership
  - PowerShell
@@ -187,8 +185,8 @@ Skills
  - EMC Storage
 
 
-Certifications
-======
+# Certifications
+
 - VMware - VCP-DCV 6.5
 - VMware - VCP-DCV 6.0
 - VMware - VCP-DCV 5.5
