@@ -2,10 +2,6 @@
 title: Resume
 ---
 
-# Chris Campbell
-## Chief Product Architect
-
-
 Summary
 ======
 
@@ -18,7 +14,7 @@ Strong communication skills and commitment to mentoring engineering staff for op
 Experience
 ======
 
-#### Chief Product Architect
+### Chief Product Architect
 **DartPoints
 04/2022 - Ongoing
 Greenville, SC**
@@ -31,7 +27,7 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
  - Provide technical guidance and direction to product, infrastructure, and engineering teams.
  - Define and maintain reference architecture for various products.
 
-#### **Infrastructure Services Manager**
+### **Infrastructure Services Manager**
 ****DartPoints**
 05/2018 - 04/2022
 Greenville, SC**
@@ -44,7 +40,7 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
  - Scheduled and organized maintenance windows for multiple platforms.
  - Responsible for maintaining uptime and meeting customer SLAs.
 
-#### Principal Cloud Engineer
+### Principal Cloud Engineer
 **Immedion
 07/2016 - 05/2018
 Greenville, SC**
@@ -53,7 +49,7 @@ Immedion was acquired by DartPoints in 2021.
  - Responsible for driving use of automation for provisioning and maintenance tasks.
  - Acted as escalation point for other engineers and support staff.
 
-#### VMware Engineer
+### VMware Engineer
 **Immedion
 09/2013 - 07/2016
 Greenville, SC**
@@ -63,7 +59,7 @@ Immedion was acquired by DartPoints in 2021.
  - Resolved issues with all VMware-related components.
  - Scheduled and performed maintenance to upgrade and patch as needed.
 
-#### Systems Engineer
+### Systems Engineer
 **Immedion
 07/2011 - 09/2016
 Greenville, SC**
@@ -76,7 +72,7 @@ Immedion was acquired by DartPoints in 2021.
  - Manage customer network gear: firewalls, routers, and switches, including Cisco routers, Cisco switches, Cisco ASA firewalls, Checkpoint firewalls, SonicWall firewalls.
  - Responsible for building and maintaining internal Nexenta storage arrays.
 
-#### Director of IT/System Administrator
+### Director of IT/System Administrator
 **Cannon Memorial Hospital
 05/2007 - 07/2011
 Pickens, SC**
@@ -89,7 +85,7 @@ Pickens, SC**
  - Maintained relationships with vendors and handled all quoting and procurement for capacity and project needs.
  - Maintained all telecommunications contracts.
 
-#### Senior On-Site Technician/System Administrator
+### Senior On-Site Technician/System Administrator
 **IDS, Inc.
 05/2003 - 05/2007
 Seneca, SC**
@@ -99,7 +95,7 @@ IT services company, specializing in small to medium businesses.
  - Worked closely with large accounts on IT projects and budgeting.
  - Maintained HP Laser printer service and repair center, ordered parts, made service calls, etc.
 
-#### System/Network Administrator
+### System/Network Administrator
 **IQ Interactive, Inc.
 06/2001 - 05/2003
 Clemson, SC**
@@ -108,7 +104,7 @@ IT training center and small internet service provider.
  - Maintained Exchange servers, web servers, and domain controllers.
  - Performed on-site DSL installs for customers.
 
-#### Computer Service Technician
+### Computer Service Technician
 **Custom Computers
 04/1999 - 06/2001
 Belton, SC**
