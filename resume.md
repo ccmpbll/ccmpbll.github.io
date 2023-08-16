@@ -6,6 +6,8 @@ nav_order: 4
 
 # Summary
 
+---
+
 Experienced IT professional with over 20 years of diverse technology expertise, including 12 years in the enterprise data center space. Proven track record in team management, data center management, virtualization, automation, and customer relations. 
 
 Adept at designing, building, and maintaining large-scale multi-tenant and private virtualization environments using VMware products. Extensive experience with various backup and disaster recovery platforms. 
@@ -14,11 +16,11 @@ Strong communication skills and commitment to mentoring engineering staff for op
 
 # Experience
 
+---
+
 ## Chief Product Architect
 **DartPoints**
-
-04/2022 - Present
-
+April 2022 - Present
 Greenville, SC
 
 DartPoints offers cloud, interconnection, colocation, and managed services.
@@ -33,9 +35,7 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
 
 ## Infrastructure Services Manager
 **DartPoints**
-
-05/2018 - 04/2022
-
+May 2018 - April 2022
 Greenville, SC
 
 DartPoints offers cloud, interconnection, colocation, and managed services.
@@ -50,9 +50,7 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
 
 ## Principal Cloud Engineer
 **Immedion**
-
-07/2016 - 05/2018
-
+July 2016 - May 2018
 Greenville, SC
 
 Immedion was acquired by DartPoints in 2021.
@@ -63,9 +61,7 @@ Immedion was acquired by DartPoints in 2021.
 
 ## VMware Engineer
 **Immedion**
-
-09/2013 - 07/2016
-
+September 2013 - July 2016
 Greenville, SC
 
 Immedion was acquired by DartPoints in 2021.
@@ -77,9 +73,7 @@ Immedion was acquired by DartPoints in 2021.
 
 ## Systems Engineer
 **Immedion**
-
-07/2011 - 09/2016
-
+July 2011 - September 2013
 Greenville, SC
 
 Immedion was acquired by DartPoints in 2021.
@@ -94,9 +88,7 @@ Immedion was acquired by DartPoints in 2021.
 
 ## Director of IT/System Administrator
 **Cannon Memorial Hospital**
-
-05/2007 - 07/2011
-
+May 2007 - July 2011
 Pickens, SC
 
 55-bed rural community hospital with several medical practices.
@@ -111,9 +103,7 @@ Pickens, SC
 
 ## Senior On-Site Technician/System Administrator
 **IDS, Inc.**
-
-05/2003 - 05/2007
-
+May 2003 - May 2007
 Seneca, SC
 
 IT services company, specializing in small to medium businesses.
@@ -125,9 +115,7 @@ IT services company, specializing in small to medium businesses.
 
 ## System/Network Administrator
 **IQ Interactive, Inc.**
-
-06/2001 - 05/2003
-
+June 2001 - May 2003
 Clemson, SC
 
 IT training center and small internet service provider.
@@ -137,8 +125,7 @@ IT training center and small internet service provider.
 
 ## Computer Service Technician
 **Custom Computers**
-04/1999 - 06/2001
-
+April 1999 - June 2001
 Belton, SC
 
 IT services company focused on in-house PC maintenance and repair.
@@ -149,9 +136,12 @@ IT services company focused on in-house PC maintenance and repair.
 
 # Skills
 
+---
+
  - Data Center Management
  - Leadership
  - PowerShell
+ - Docker
  - Ansible
  - Terraform
  - Bash
@@ -188,6 +178,8 @@ IT services company focused on in-house PC maintenance and repair.
 
 
 # Certifications
+
+---
 
 - VMware - VCP-DCV 6.5
 - VMware - VCP-DCV 6.0
