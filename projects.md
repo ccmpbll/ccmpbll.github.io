@@ -1,5 +1,6 @@
 ---
 title: Projects
+layout: page
 ---
 
 ## This is a list of my current and past projects. 
