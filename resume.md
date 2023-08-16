@@ -10,7 +10,7 @@ nav_order: 4
 
 Download a copy of my resume here. 
 
-# Summary
+## Summary
 
 ---
 
@@ -20,11 +20,11 @@ Adept at designing, building, and maintaining large-scale multi-tenant and priva
 
 Strong communication skills and commitment to mentoring engineering staff for optimal performance. Passionate about technology. Dedicated to continuous learning and improvement.
 
-# Experience
+## Experience
 
 ---
 
-## Chief Product Architect
+### Chief Product Architect
 **DartPoints** | April 2022 - Present | Greenville, SC
 
 DartPoints offers cloud, interconnection, colocation, and managed services.
@@ -37,7 +37,7 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
  - Define and maintain reference architecture for various products.
 
 
-## Infrastructure Services Manager
+### Infrastructure Services Manager
 **DartPoints** | May 2018 - April 2022 | Greenville, SC
 
 DartPoints offers cloud, interconnection, colocation, and managed services.
@@ -50,7 +50,7 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
  - Responsible for maintaining uptime and meeting customer SLAs.
 
 
-## Principal Cloud Engineer
+### Principal Cloud Engineer
 **Immedion** | July 2016 - May 2018 | Greenville, SC
 
 Immedion was acquired by DartPoints in 2021.
@@ -59,7 +59,7 @@ Immedion was acquired by DartPoints in 2021.
  - Acted as escalation point for other engineers and support staff.
 
 
-## VMware Engineer
+### VMware Engineer
 **Immedion** | September 2013 - July 2016 | Greenville, SC
 
 Immedion was acquired by DartPoints in 2021.
@@ -69,7 +69,7 @@ Immedion was acquired by DartPoints in 2021.
  - Scheduled and performed maintenance to upgrade and patch as needed.
 
 
-## Systems Engineer
+### Systems Engineer
 **Immedion** | July 2011 - September 2013 | Greenville, SC
 
 Immedion was acquired by DartPoints in 2021.
@@ -82,7 +82,7 @@ Immedion was acquired by DartPoints in 2021.
  - Responsible for building and maintaining internal Nexenta storage arrays.
 
 
-## Director of IT/System Administrator
+### Director of IT/System Administrator
 **Cannon Memorial Hospital** | May 2007 - July 2011 | Pickens, SC
 
 55-bed rural community hospital with several medical practices.
@@ -95,7 +95,7 @@ Immedion was acquired by DartPoints in 2021.
  - Maintained all telecommunications contracts.
 
 
-## Senior On-Site Technician/System Administrator
+### Senior On-Site Technician/System Administrator
 **IDS, Inc.** | May 2003 - May 2007 | Seneca, SC
 
 IT services company, specializing in small to medium businesses.
@@ -105,7 +105,7 @@ IT services company, specializing in small to medium businesses.
  - Maintained HP Laser printer service and repair center, ordered parts, made service calls, etc.
 
 
-## System/Network Administrator
+### System/Network Administrator
 **IQ Interactive, Inc.** | June 2001 - May 2003 | Clemson, SC
 
 IT training center and small internet service provider.
@@ -113,7 +113,7 @@ IT training center and small internet service provider.
  - Maintained Exchange servers, web servers, and domain controllers.
  - Performed on-site DSL installs for customers.
 
-## Computer Service Technician
+### Computer Service Technician
 **Custom Computers** | April 1999 - June 2001 | Belton, SC
 
 Small IT services company focused on in-house PC maintenance and repair.
@@ -122,7 +122,7 @@ Small IT services company focused on in-house PC maintenance and repair.
  - Placed parts and supply orders.
 
 
-# Skills
+## Skills
 
 ---
 
@@ -165,7 +165,7 @@ Small IT services company focused on in-house PC maintenance and repair.
  - EMC Storage
 
 
-# Certifications
+## Certifications
 
 ---
 
