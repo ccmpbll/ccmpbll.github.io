@@ -1,7 +1,7 @@
 ---
 title: Home Lab Gear and Software
 layout: page
-parent: tools-and-tech.md
+parent: Tools and Tech
 nav_order: 2
 ---
 

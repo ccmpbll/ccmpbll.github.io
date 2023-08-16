@@ -6,4 +6,4 @@ has_children: true
 ---
 
 # Tools and Technology
-A collection of my favorite tools and technology. 
+A collection of my favorite tools, hardware, software, and other resources. 

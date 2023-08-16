@@ -1,7 +1,7 @@
 ---
 title: 3D Printing and Design
 layout: page
-parent: tools-and-tech.md
+parent: Tools and Tech
 nav_order: 1
 ---
 
