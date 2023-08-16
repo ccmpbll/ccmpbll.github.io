@@ -8,7 +8,7 @@ nav_order: 4
 
 ---
 
-Download a copy of my resume here. 
+[Download](/assets/chris-campbell-resume.pdf) a copy of my resume. 
 
 ## Summary
 
