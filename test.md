@@ -2,7 +2,7 @@
 title: Test Page
 ---
 
-<a href="/home.html" class="button">Home</a>
+<a href="/home.html" class="btn">Home</a>
 
 ## Welcome!
 This space is dedicated to documenting all the stuff I find myself working on in my spare time. 
