@@ -9,9 +9,6 @@ nav_order: 3
 ---
 
 ## 3D Printing and Design
-
----
-
 - Printer - [Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/)
 - Slicer Software - PrusaSlicer and [SuperSlicer](https://github.com/supermerill/SuperSlicer)
 - 3D Design/CAD - [Fusion360](https://www.autodesk.com/products/fusion-360/personal)
