@@ -10,6 +10,10 @@ nav_order: 4
 
 [Download](/assets/chris-campbell-resume.pdf) a copy of my resume. 
 
+[Download](/assets/chris-campbell-resume.pdf){: .btn }
+
+
+
 ## Summary
 
 ---
