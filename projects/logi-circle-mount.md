@@ -1,11 +1,11 @@
 ---
-title: Logitech Camera Mount
+title: Custom Mount For Logitech Circle View Camera
 layout: post
 parent: Projects
 nav_order: 1
 ---
 
-# Custom mount for Logitech Circle View camera
+# Custom Mount For Logitech Circle View Camera
 
 ## Summary
 I like hummingbirds. I think they're fascinating. Unfortunately, I have to work and I don't have time to stare out the window all day waiting on them to come to the feeder.
@@ -25,7 +25,5 @@ The only other parts needed were an M3x16 socket head cap screw and an M3 nut to
 
 ## Finished Product
 ![](/assets/images/cameramount.jpeg)
-
-More pictures coming soon. 
 
 {% include youtube.html id="4HzgGr8CyRk" %}

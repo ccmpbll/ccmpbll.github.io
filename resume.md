@@ -19,9 +19,7 @@ Strong communication skills and commitment to mentoring engineering staff for op
 ---
 
 ## Chief Product Architect
-**DartPoints**
-April 2022 - Present
-Greenville, SC
+**DartPoints** | April 2022 - Present | Greenville, SC
 
 DartPoints offers cloud, interconnection, colocation, and managed services.
  - Maintain lab environments for new products, new feature testing, and patch/upgrade testing.
@@ -34,9 +32,7 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
 
 
 ## Infrastructure Services Manager
-**DartPoints**
-May 2018 - April 2022
-Greenville, SC
+**DartPoints** | May 2018 - April 2022 | Greenville, SC
 
 DartPoints offers cloud, interconnection, colocation, and managed services.
  - Led the Infrastructure Services engineering team.
@@ -49,9 +45,7 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
 
 
 ## Principal Cloud Engineer
-**Immedion**
-July 2016 - May 2018
-Greenville, SC
+**Immedion** | July 2016 - May 2018 | Greenville, SC
 
 Immedion was acquired by DartPoints in 2021.
  - Responsible for design, deployment, and maintenance of all cloud and virtualization products.
@@ -60,9 +54,7 @@ Immedion was acquired by DartPoints in 2021.
 
 
 ## VMware Engineer
-**Immedion**
-September 2013 - July 2016
-Greenville, SC
+**Immedion** | September 2013 - July 2016 | Greenville, SC
 
 Immedion was acquired by DartPoints in 2021.
  - Maintained VMware environments at all sites.
@@ -72,9 +64,7 @@ Immedion was acquired by DartPoints in 2021.
 
 
 ## Systems Engineer
-**Immedion**
-July 2011 - September 2013
-Greenville, SC
+**Immedion** | July 2011 - September 2013 | Greenville, SC
 
 Immedion was acquired by DartPoints in 2021.
  - Ensure consistent delivery of customer support.
@@ -87,9 +77,7 @@ Immedion was acquired by DartPoints in 2021.
 
 
 ## Director of IT/System Administrator
-**Cannon Memorial Hospital**
-May 2007 - July 2011
-Pickens, SC
+**Cannon Memorial Hospital** | May 2007 - July 2011 | Pickens, SC
 
 55-bed rural community hospital with several medical practices.
  - Led the Internal IT team.
@@ -102,9 +90,7 @@ Pickens, SC
 
 
 ## Senior On-Site Technician/System Administrator
-**IDS, Inc.**
-May 2003 - May 2007
-Seneca, SC
+**IDS, Inc.** | May 2003 - May 2007 | Seneca, SC
 
 IT services company, specializing in small to medium businesses.
  - Handled onsite service calls for various customer across the upstate.
@@ -114,9 +100,7 @@ IT services company, specializing in small to medium businesses.
 
 
 ## System/Network Administrator
-**IQ Interactive, Inc.**
-June 2001 - May 2003
-Clemson, SC
+**IQ Interactive, Inc.** | June 2001 - May 2003 | Clemson, SC
 
 IT training center and small internet service provider.
  - Performed maintenance of various servers and network equipment.
@@ -124,11 +108,9 @@ IT training center and small internet service provider.
  - Performed on-site DSL installs for customers.
 
 ## Computer Service Technician
-**Custom Computers**
-April 1999 - June 2001
-Belton, SC
+**Custom Computers** | April 1999 - June 2001 | Belton, SC
 
-IT services company focused on in-house PC maintenance and repair.
+Small IT services company focused on in-house PC maintenance and repair.
  - Performed in-house PC repairs and services.
  - Performed on-site service requests and hardware installation.
  - Placed parts and supply orders.
