@@ -5,11 +5,12 @@ nav_order: 4
 ---
 
 # Resume
-Download a copy.
 
 ---
 
-## Summary
+Download a copy of my resume here. 
+
+# Summary
 
 ---
 
@@ -19,11 +20,11 @@ Adept at designing, building, and maintaining large-scale multi-tenant and priva
 
 Strong communication skills and commitment to mentoring engineering staff for optimal performance. Passionate about technology. Dedicated to continuous learning and improvement.
 
-## Experience
+# Experience
 
 ---
 
-### Chief Product Architect
+## Chief Product Architect
 **DartPoints** | April 2022 - Present | Greenville, SC
 
 DartPoints offers cloud, interconnection, colocation, and managed services.
@@ -36,7 +37,7 @@ DartPoints offers cloud, interconnection, colocation, and managed services.
  - Define and maintain reference architecture for various products.
 
 
-### Infrastructure Services Manager
+## Infrastructure Services Manager
 **DartPoints** | May 2018 - April 2022 | Greenville, SC
 
 DartPoints offers cloud, interconnection, colocation, and managed services.
