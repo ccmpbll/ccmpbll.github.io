@@ -4,7 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-## Welcome!
+# Welcome!
+
+---
+
 This space is dedicated to documenting all the stuff I find myself working on in my spare time. 
 
 I might be the only one reading this, but I've been encouraged to document and track my side projects, so I've created this platform to share my progress and findings.
