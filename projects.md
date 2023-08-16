@@ -1,6 +1,8 @@
 ---
 title: Projects
 layout: page
+nav_order: 2
+has_children: true
 ---
 
 ## This is a list of my current and past projects. 

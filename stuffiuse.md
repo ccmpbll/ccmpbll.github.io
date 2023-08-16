@@ -1,5 +1,7 @@
 ---
 title: Stuff I Use
+layout: page
+nav_order: 3
 ---
 
 # List of software/tools/stuff I use

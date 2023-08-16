@@ -1,5 +1,8 @@
 ---
 title: Logitech Camera Mount
+layout: post
+parent: Projects
+nav_order: 1
 ---
 
 # Custom mount for Logitech Circle View camera
