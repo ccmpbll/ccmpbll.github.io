@@ -1,6 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
-site_favicon: favicon.ico
+favicon_ico: /assets/images/favicon2.ico
 title: Chris Campbell
 description: Learning stuff and making things.
 show_downloads: false
