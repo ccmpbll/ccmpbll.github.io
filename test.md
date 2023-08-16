@@ -2,10 +2,7 @@
 title: Test Page
 ---
 
-<a href="/index.md" class="btn">Home</a>
-
-|[Home](/index.md)|[Projects](/projects.md)|[Stuff I Use](/stuffiuse.md)|[Reading](https://www.goodreads.com/user/show/163287154-chris-campbell)|[Resume](/resume.md)|
-|---|---|---|---|---|
+<a href="/index.html" class="btn">Home</a><a href="/resume.html" class="btn">Resume</a>
 
 ## Welcome!
 This space is dedicated to documenting all the stuff I find myself working on in my spare time. 
