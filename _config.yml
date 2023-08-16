@@ -7,12 +7,12 @@ show_downloads: false
 github:
   is_project_page: false
 nav_external_links:
-  - title: What I'm Reading
-    url: https://www.goodreads.com/user/show/163287154-chris-campbell
-    hide_icon: false
   - title: Printables
     url: https://www.printables.com/@ccmpbll
     hide_icon: false
   - title: Github
     url: https://github.com/ccmpbll
+    hide_icon: false
+  - title: What I'm Reading
+    url: https://www.goodreads.com/user/show/163287154-chris-campbell
     hide_icon: false
