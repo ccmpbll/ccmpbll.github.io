@@ -8,7 +8,7 @@ nav_order: 2
 # Home Lab Gear and Software
 
 ## Compute/Storage Hardware
-I use a custom built server runing Unraid. I've been using Unraid since 2009 and it's consistently gotten better year over year. It comes with a Docker engine built in, the ability to use KVM for virtual machines, and a huge community. I highly recommend it. I'll eventually add more detail here on the hardware and how I use this. 
+I use a custom built server runing Unraid. I've been using Unraid since 2009 and it has consistently gotten better year over year. It comes with a Docker engine built in, the ability to use KVM for virtual machines, and a huge community behind it. I highly recommend it. I'll eventually add more detail here on the hardware and how I use this. 
 
 ## Network Hardware
 - Cisco 2960X-24PSQ-L - Main rack switch
