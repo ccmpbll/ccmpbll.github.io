@@ -11,7 +11,7 @@ nav_order: 1
 My current printer of choice is the [Prusa MK3S+](https://www.prusa3d.com/category/original-prusa-i3-mk3s/). I started off with an Ender 3 and quickly found myself spending more time tinkering, tweaking, and tuning the printer than I was actually using it to print things. I have never been more happy with a technology purchase in my whole life. This thing has been absolutely amazing. 
 
 ## Slicer Software
-I use both [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/releases) and [SuperSlicer](https://github.com/supermerill/SuperSlicer), but PrusaSlicer is my go to. With the latest release (2.6.0), I find myself going back to it more and more and getting excellent results. The addition of organic supports and a few other features makes it excellent. You can view the latest changes and additional features [here](https://files.prusa3d.com/?latest=slicer-stable&lng=en).
+I use both [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer/releases) and [SuperSlicer](https://github.com/supermerill/SuperSlicer), but PrusaSlicer is my go to. With the latest release (2.6.0), I find myself going back to it more and more and getting excellent results. The addition of organic supports and a few other features put it at the top of my list. You can view the latest changes and additional features [here](https://files.prusa3d.com/?latest=slicer-stable&lng=en).
 
 SuperSlicer is great too, but I find myself only going to it for specific things. It has a lot more things to tweak and tune, if thats your thing.
 
