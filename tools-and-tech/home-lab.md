@@ -13,7 +13,7 @@ I use a custom built server runing Unraid. I've been using Unraid since 2009 and
 ## Network Hardware
 - Cisco 2960X-24PSQ-L - Main rack switch
 - Cisco 2960CG-8TC-L - Desk rack switch
-- PC Engines APU2 running pfSense
+- Fortigate 60E
 - Ruckus R650 - running Unleashed firmware
 
 ## Monitoring and Graphing
