@@ -23,7 +23,7 @@ I took the hole spacing measurements from the base and took a ton of measurement
 
 The only other parts needed were an M2x16 socket head cap screw and an M2 nut to attach the camera to the mount. 
 
-## Update - January 2024
+## Update - Several Months Later
 As mentioned above, I chose to print this part in carbon fiber PLA. This turned out to be a bad choice. The sun coming through the window in the afternoon turned out to be much hotter than I assumed. The heat caused the part to deform so that the camera was pointing down at the ground. I reprinted the part, this time in carbon fiber PETG. Hopefully this will perform much better.
 
 ## Finished Product
