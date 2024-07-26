@@ -26,6 +26,9 @@ This is one of the things I really enjoy playing with. Telegraf and InfluxDB are
 - [Mosquitto (MQTT broker)](https://hub.docker.com/_/eclipse-mosquitto)
 - [cloudflare-speedtest-mqtt](https://github.com/ccmpbll/cloudflare-speedtest-mqtt)
 
+## Automation
+I don't have a ton of things to automate, but sometimes you just want a project to learn how things work. I've been using a lot of Ansible and Jenkins to automate Docker container deployments, Linux configuration, and updates. I need to write a small article on how I use this.
+
 ## File Syncronization
 [Syncthing](https://docs.syncthing.net/) - This will be getting its own write up under the projects section.
 
@@ -33,19 +36,19 @@ This is one of the things I really enjoy playing with. Telegraf and InfluxDB are
 [Emby](https://emby.media/) - I was a loyal Plex user for a very long time, but several years ago I made the decision to move away from Plex to something that only ran locally on my home network and didn't require a login to any outside service to function. I can use Emby with no internet connection at all, which is not something you can do with Plex (at least this was the case when I switched). 
 
 ## Home Automation
-[Homebridge](https://github.com/homebridge/docker-homebridge) - lets me bring non-HomeKit enabled devices into HomeKit. All of my other devices, lamps, cameras, etc. are HomeKit enabled. 
+[Homebridge](https://github.com/homebridge/docker-homebridge) - lets me bring non-HomeKit enabled devices into HomeKit. All of my other devices, lamps, cameras, etc. are HomeKit enabled. I have since stopped using this, but I've been playing around with HomeAssistant recently. Nothing permanent, just an experiment right now.
 
 ## Remote access
 [Wireguard](https://www.wireguard.com/) - this also needs its own write up. 
 
 ## Ad blocking/DNS
-[Pihole](https://hub.docker.com/r/pihole/pihole) - I run two instances of this, each on separate hardware. Both are running on docker.
+[Pihole](https://hub.docker.com/r/pihole/pihole) - I run two instances of this, each on separate hardware. Both are running on docker. 
 
 ## Logging
 [Dozzle](https://dozzle.dev/) - great for reviewing docker container logs. Connects to docker.sock to automatically discover running containers and display logs for those containers in a very nice web interface.
 
 ## Virtualization
-As hard as it might be to believe, there are no virtual machines running in my homelab. I made the decision a while ago to switch everything I could over to docker containers. However, I do find myself needing to test something in a VM from time to time. When that happens, I usually just spin up a VM on my Unraid box.
+I made the decision a while ago to switch everything I could over to docker containers. However, I've recently found myself in need of some testing VMs, so I've added a ProxMox machine to my homelab. Nothing permanent running on this, but it's been handy to have this around.  
 
 ## Cloud Hosting
 [Linode](https://www.linode.com/) - I have used DigitalOcean, Vultr, and Amazon Lightsail, but my favorite so far has been Linode. They were recently acquired by Akamai, but no negative changes have been made as far as I am aware. 
