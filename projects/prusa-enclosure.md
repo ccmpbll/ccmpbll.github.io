@@ -7,6 +7,8 @@ nav_order: 1
 
 # Prusa Enclosure Setup and Upgrades
 
+![](/assets/images/prusa_enclosure.jpg)
+
 ## Summary
 After upgrading from my beloved Prusa MK3S+ to a MK4, I decided the enclosure I built from Ikea Lack tables was no longer going to work. It was inexpensive and it was fun to build, but I needed more room inside the enclosure. Enter the official Prusa Enclosure. See below for some of my efforts to set the enclosure up to my liking.
 
@@ -20,6 +22,8 @@ The acrylic used for the sides and doors has a ton of static after you remove th
 
 I won't bother creating a separate section for this, but its definitely worth mentioning. The hinged lid add on for the Prusa Enclosure is well worth the little effort and filament it requires. You can find details here: https://www.printables.com/model/273426-hinged-lid-for-adding-mmu2s-to-original-prusa-encl. It doesnt requuire any additional parts, only what is included with the enclosure kit.
 
+![](/assets/images/enclosure_hinged_lid.jpg)
+
 ### Parts
 - 1.5"x.5" 70 Duro Sorbothane feet: https://www.amazon.com/dp/B019O68IY0
 - MG Chemicals Antistatic Plastic Cleaner: https://www.amazon.com/dp/B072QWBJ9K
@@ -29,13 +33,15 @@ I won't bother creating a separate section for this, but its definitely worth me
 ### Details
 Coming Soon!
 
+![](/assets/images/enclosure_lights_1.jpg)![](/assets/images/enclosure_lights_2.jpg)
+
+
 ### Parts
 - 16" Aluminum Channel with Diffuser for LED Strips: https://www.amazon.com/dp/B0C6GKXNWQ
 - 16.4' Insanely bright LED Strip: https://www.amazon.com/dp/B0BYNS9YYQ
 - 4' Male/Female Power Cable Pigtails: https://www.amazon.com/dp/B0CWV1MP2J
 - Armacost 36W 24V LED Power Supply: https://www.amazon.com/dp/B08YS6GMP6
 - TH3D EZPlug+ Wifi Tasmota Smart Plug: https://www.th3dstudio.com/product/ezplug-open-source-wifi-smart-plug/
-
 
 
 
@@ -52,8 +58,8 @@ Coming Soon!
 
 ## Logitech C920 Mount
 
-![](/assets/images/c920_mount_model.jpg)
-
 ### Details
 
-Coming Soon!
+The last piece I needed to create was a mount for a C920 Logitech camera I use for OctoPrint. The Prusa Enclosure has plenty of holes and places to mount things, so it was just a matter of designing something that would fit with my existing camera. I drew this up in Fusion in just a few minutes and printed it out in black PETG. Added some M3 screws and nuts and it was done. No complaints so far.
+
+![](/assets/images/c920_mount_model.jpg)![](/assets/images/c920_mount.jpg)
