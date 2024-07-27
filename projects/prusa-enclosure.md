@@ -18,6 +18,8 @@ I failed to take any pictures during the assembly process, but as with all thing
 
 The acrylic used for the sides and doors has a ton of static after you remove the protective paper and it attracts dust like crazy. I found this MG Chemicals cleaner that will remove the static and clean the surface. Worked extremely well. 
 
+I won't bother creating a separate section for this, but its definitely worth mentioning. The hinged lid add on for the Prusa Enclosure is well worth the little effort and filament it requires. You can find details here: https://www.printables.com/model/273426-hinged-lid-for-adding-mmu2s-to-original-prusa-encl. It doesnt requuire any additional parts, only what is included with the enclosure kit.
+
 ### Parts
 - 1.5"x.5" 70 Duro Sorbothane feet: https://www.amazon.com/dp/B019O68IY0
 - MG Chemicals Antistatic Plastic Cleaner: https://www.amazon.com/dp/B072QWBJ9K
@@ -49,6 +51,8 @@ Coming Soon!
 - 15x6x2mm magnets for spool holders: https://www.amazon.com/dp/B0B7X3RJ54
 
 ## Logitech C920 Mount
+
+![](/assets/images/c920_mount_model.jpg)
 
 ### Details
 
