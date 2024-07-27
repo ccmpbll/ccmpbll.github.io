@@ -27,7 +27,7 @@ This is one of the things I really enjoy playing with. Telegraf and InfluxDB are
 - [cloudflare-speedtest-mqtt](https://github.com/ccmpbll/cloudflare-speedtest-mqtt)
 
 ## Automation
-I don't have a ton of things to automate, but sometimes you just want a project to learn how things work. I've been using a lot of Ansible and Jenkins to automate Docker container deployments, Linux configuration, and updates. I need to write a small article on how I use this.
+I don't have a ton of things to automate, but sometimes you just want a project to learn how things work. I've been using a lot of Ansible and Jenkins to automate Docker container deployments, Linux configuration, and updates, but nothing groundbreaking. I need to write a small article on how I use this.
 
 ## File Syncronization
 [Syncthing](https://docs.syncthing.net/) - This will be getting its own write up under the projects section.

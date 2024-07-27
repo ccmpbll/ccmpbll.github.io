@@ -7,4 +7,7 @@ nav_order: 4
 
 # Private File Syncronization Solution
 
-Details coming soon!
+## Summary
+**TL;DR:** I use Syncthing with my own private relay and discovery server. Works well and it's free.
+
+More details coming soon!
