@@ -20,7 +20,7 @@ I failed to take any pictures during the assembly process, but as with all thing
 
 The acrylic used for the sides and doors has a ton of static after you remove the protective paper and it attracts dust like crazy. I found this MG Chemicals cleaner that will remove the static and clean the surface. Worked extremely well. 
 
-I won't bother creating a separate section for this, but its definitely worth mentioning. The hinged lid add on for the Prusa Enclosure is well worth the little effort and filament it requires. You can find details here: https://www.printables.com/model/273426-hinged-lid-for-adding-mmu2s-to-original-prusa-encl. It doesnt require any additional parts, only what is included with the enclosure kit.
+I won't bother creating a separate section for this, but its definitely worth mentioning. The hinged lid add on for the Prusa Enclosure is well worth the little effort and filament it requires. You can find details [HERE](https://www.printables.com/model/273426-hinged-lid-for-adding-mmu2s-to-original-prusa-encl). It doesnt require any additional parts, only what is included with the enclosure kit.
 
 ![](/assets/images/enclosure_hinged_lid.jpg)
 
@@ -50,13 +50,13 @@ Here you can see the final product. They're extremely bright and are working ver
 ![](/assets/images/enclosure_lights_1.jpg)![](/assets/images/enclosure_lights_2.jpg)
 
 ### Parts
-- 16" Aluminum Channel with Diffuser for LED Strips: https://www.amazon.com/dp/B0C6GKXNWQ
-- 16.4' Insanely bright LED Strip: https://www.amazon.com/dp/B0BYNS9YYQ
-- 2 pin JST Connectors - https://www.amazon.com/dp/B07QKBKNC1
-- 18 AWG Silicone Stranded Wire - https://www.amazon.com/dp/B01708AYYQ
-- 4' Male/Female Power Cable Pigtails: https://www.amazon.com/dp/B0CWV1MP2J
-- Armacost 36W 24V LED Power Supply: https://www.amazon.com/dp/B08YS6GMP6
-- TH3D EZPlug+ Wifi Tasmota Smart Plug: https://www.th3dstudio.com/product/ezplug-open-source-wifi-smart-plug/
+- [16" Aluminum Channel with Diffuser for LED Strips](https://www.amazon.com/dp/B0C6GKXNWQ)
+- [16.4' Insanely bright LED Strip](https://www.amazon.com/dp/B0BYNS9YYQ)
+- [2 pin JST Connectors](https://www.amazon.com/dp/B07QKBKNC1)
+- [18 AWG Silicone Stranded Wire](https://www.amazon.com/dp/B01708AYYQ)
+- [4' Male/Female Power Cable Pigtails](https://www.amazon.com/dp/B0CWV1MP2J)
+- [Armacost 36W 24V LED Power Supply](https://www.amazon.com/dp/B08YS6GMP6)
+- [TH3D EZPlug+ Wifi Tasmota Smart Plug](https://www.th3dstudio.com/product/ezplug-open-source-wifi-smart-plug/)
 
 
 
@@ -67,9 +67,9 @@ Here you can see the final product. They're extremely bright and are working ver
 Coming Soon!
 
 ### Parts
-- PC4-M10 Fittings:  https://www.amazon.com/dp/B095P7Z62Y
-- PTFE Tubing: https://www.amazon.com/dp/B01CUPV9KC
-- 15x6x2mm magnets for spool holders: https://www.amazon.com/dp/B0B7X3RJ54
+- [PC4-M10 Fittings](https://www.amazon.com/dp/B095P7Z62Y)
+- [PTFE Tubing](https://www.amazon.com/dp/B01CUPV9KC)
+- [15x6x2mm magnets for spool holders](https://www.amazon.com/dp/B0B7X3RJ54)
 
 ## Logitech C920 Mount
 
