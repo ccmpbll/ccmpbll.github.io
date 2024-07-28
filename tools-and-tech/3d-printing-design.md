@@ -30,3 +30,5 @@ Silk filaments are terrible to print with and I don't like them. I believe it to
 
 ## Other
 [OctoPrint](https://octoprint.org/) is an absolute must. It integrates with Tasmota plugs to power on/off the printer, brings camera and timelapse support, and a host of other things. You wont regret it. Great opensource project. 
+
+If you are using OctoPrint, you definitely need [OctoApp](https://github.com/crysxd/OctoApp-Plugin). Best mobile app for OctoPrint, hands down.

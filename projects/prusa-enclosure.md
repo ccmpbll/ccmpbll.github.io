@@ -39,7 +39,7 @@ The first problem was figuring out how to mount the aluminum channels to the ins
 ![](/assets/images/enclosure_lights_model_1.jpg)![](/assets/images/enclosure_lights_model_2.jpg)
 ![](/assets/images/enclosure_lights_model_3.jpg)
 
-The next step was installing the LEDs in the channels and wiring everything up. I failed to take pictures of this part, but the LEDs were cut to size and stuck to the inside of the channels. I used two pieces of wire about 4in long for each end of the LED strips, crimped on the JST connectors, and soldered them onto the LED strips. THe JST connectors allows me to replace one section of LEDs at a time without having to disassemble or desolder things.
+The next step was installing the LEDs in the channels and wiring everything up. I failed to take pictures of this part, but the LEDs were cut to size and stuck to the inside of the channels. I used two pieces of wire about 4in long for each end of the LED strips, crimped on the JST connectors, and soldered them onto the LED strips. The JST connectors allows me to replace one section of LEDs at a time without having to disassemble or desolder things.
 
 Now it was time to tackle cabling and powering everything. I really didn't want to have these LEDs powered by the printers power supply this time. I did that with the old enclosure, but the printer had to be on for the lights to be on and that's not very useful if I want to remove the printer and work on the inside of the enclosure. I dug around on Amazon for a while and found a 24v power supply intended to be used with LEDs. This was very easy to wire up. Just needed a pair of low voltage power pigtails and another couple of JST connectors.
 
