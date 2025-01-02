@@ -1,7 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 favicon_ico: /assets/images/favicon.ico
-logo: /assets/images/cmpbll.png
+logo: /assets/images/cmpbll-layers.png
 title: blog.cmpbll.io
 description: Learning stuff and making things.
 show_downloads: false
