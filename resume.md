@@ -14,7 +14,7 @@ nav_order: 4
 
 ---
 
-Experienced IT professional with over 20 years of diverse technology expertise, including 12 years in the enterprise data center space. Proven track record in team management, data center management, virtualization, automation, and customer relations. 
+Experienced IT professional with over 20 years of diverse technology expertise, including 14 years in the enterprise data center space. Proven track record in team management, data center management, virtualization, automation, and customer relations. 
 
 Skilled in the design, construction, and maintenance of large-scale multi-tenant and private virtualization environments using VMware products. Extensive hands-on experience with various backup and disaster recovery platforms, automation tools, and scripting languages. 
 
@@ -24,15 +24,16 @@ Strong communication skills and commitment to mentoring engineering staff for op
 
 ---
 
-### Chief Architect - Automation/R&D
+### Chief Architect - Research and Development
 **DartPoints** | April 2022 - Present | Greenville, SC
 
 DartPoints offers cloud, interconnection, colocation, and managed services.
+ - Manage a small team of in-house software developers.
  - Responsible for driving the use of automation throughout the organization.
- - Work collaboratively with other departments to improve operational efficiency using automation.
+ - Work collaboratively with other departments to improve operational efficiency using automation and software development.
  - Manage lab environments used for product and feature testing, upgrade planning, and automation development.
  - Train and mentor engineering staff, fostering their professional growth and improving team performance.
- - Provide technical guidance and direction to product, infrastructure, and engineering teams.
+ - Provide technical guidance and direction to software development, product, infrastructure, and engineering teams.
 
 
 ### Infrastructure Services Manager
@@ -120,7 +121,7 @@ Small IT services company focused on in-house PC maintenance and repair.
  - Placed parts and supply orders.
 
 
-## Skills
+## Skills/Product Experience
 
 ---
 
